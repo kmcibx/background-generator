@@ -1,7 +1,7 @@
 const littlefeature = {
 	1: thing;
 	2: thingy;
-	3: thingys;
+	3: thingier;
 }
 
 const basket = ['apples', 'oranges', 'grapes'];
