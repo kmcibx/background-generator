@@ -1,6 +1,10 @@
+const littlefeature = {
+	1: thing;
+	2: thingy;
+	3: thingys;
+}
+
 const basket = ['apples', 'oranges', 'grapes'];
-
-
 
 for (let i = 0; i < basket.length; i++) {
 	console.log(basket[i]);
